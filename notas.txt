@@ -1,0 +1,16 @@
+Estudio de la plataforma Azure 
+
+https://docs.microsoft.com/en-us/learn/azure/
+https://www.javatpoint.com/microsoft-azure
+https://docs.microsoft.com/en-us/learn/browse/?products=azure
+https://www.tutorialspoint.com/microsoft_azure/index.htm
+
+SQL
+https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
+
+https://www.tutorialspoint.com/ms_sql_server/ms_sql_server_management_studio.htm
+
+https://www.tutorialsteacher.com/sqlserver/sql-server-management-studio
+
+Video
+https://www.youtube.com/playlist?list=PL3hNLk-aR0J9K5cvCIsQiwjMvO8UFFr35

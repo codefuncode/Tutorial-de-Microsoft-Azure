@@ -1,0 +1,2 @@
+https://www.javatpoint.com/microsoft-azure
+https://docs.microsoft.com/en-us/learn/browse/?products=azure
